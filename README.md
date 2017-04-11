@@ -29,5 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Following this tutorial
 
-[Angular 4 Firebase Tutorial: Make a Simple Angular 4 App]
-(https://coursetro.com/posts/code/54/Angular-4-Firebase-Tutorial:-Make-a-Simple-Angular-4-App).
+[Angular 4 Firebase Tutorial: Make a Simple Angular 4 App](https://coursetro.com/posts/code/54/Angular-4-Firebase-Tutorial:-Make-a-Simple-Angular-4-App).
